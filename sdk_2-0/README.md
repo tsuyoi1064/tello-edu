@@ -18,7 +18,9 @@
 
 ## SendCommand.py  
 
-- Use Wi-Fi to establish a connection between the Tello and Device.  
+- Preparation  
+  - Use Wi-Fi to establish a connection between the Tello and Device.  
+
 
 - Start-up  
   `python SendCommand.py`  
