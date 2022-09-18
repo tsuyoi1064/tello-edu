@@ -34,7 +34,7 @@
 
 
 - Start-up  
-  `python SendCommand.py`  
+  `python ReceiveState.py`  
 
 
 ---
