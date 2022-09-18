@@ -24,6 +24,7 @@
 
 - Start-up  
   `python SendCommand.py`  
+  `command`  
 
 
 ---
